@@ -30,22 +30,13 @@ This part is largely taken from https://github.com/necolas/idiomatic-css
   - Place the closing brace of a ruleset in the same column as the first character of the ruleset.
 
 
-### Rules
-
-Taken from https://github.com/anthonyshort/idiomatic-sass#file-structure
-
-- Each logical module of code should belong in its own file. Avoiding putting multiple objects in the same file. This allows you to use the filesystem to navigate your Sass rather than relying on comment blocks.
-- Mixins/placeholders/functions should, if possible, belong in their own file.
-- Files should be named for the component they are housing. A block-list object will live in a block-list.scss file.
-
-
 ## Naming convention
 
 - .only-hyphens
 - #only_underscores
 
 
-### Colors
+## Colors
 
 ```css
 
