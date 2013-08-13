@@ -1,6 +1,8 @@
 # SASS conventions (draft)
 
-This document outlines the conventions we have at [MetaStudio](http://metastudiohq.com) for writing SASS code.
+This document outlines the conventions we have at [MetaStudio](http://metastudiohq.com) for writing CSS code.
+
+Always use SASS with SCSS syntax.
 
 ## Derived from
 
