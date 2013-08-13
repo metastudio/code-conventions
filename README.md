@@ -144,6 +144,9 @@ Taken from https://github.com/anthonyshort/idiomatic-sass#mixins
   &:hover {
     color: #fff;
   }
+  p > .note {
+    color: #ccc;
+  }
 }
 
 ```
