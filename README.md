@@ -13,6 +13,7 @@ This document outlines the conventions we have at [MetaStudio](http://metastudio
 
 This part is largely taken from https://github.com/necolas/idiomatic-css
 
+- *Indentation :* 2 spaces
 - *Line length :* 80 columns
 - *Whitespaces :* configure your editor to "show invisibles" or to automatically remove end-of-line whitespace.
 - *Comments :* Always use ```//``` SASS comments, they will not be outputed. Use regular comment if you have a good reason
