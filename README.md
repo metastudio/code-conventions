@@ -115,7 +115,7 @@ Taken from https://github.com/anthonyshort/idiomatic-sass#mixins
 ```css
 
 // Add transition effect. Usage: @include trasition(all, 1s, ease-in-out);
-@mixin trasition($property, $duration:0.3s, $function: ease-out) {
+@mixin transition($property, $duration:0.3s, $function: ease-out) {
   -moz-transition: $property $durations $function; /* FF3.7+ */
   -o-transition: $property $durations $function; /* Opera 10.5 */
   -webkit-transition: $property $durations $function; /* Saf3.2+, Chrome */
