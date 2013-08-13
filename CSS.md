@@ -2,7 +2,7 @@
 
 This document outlines the conventions we have at [MetaStudio](http://metastudiohq.com) for writing CSS code.
 
-Always use SASS with SCSS syntax.
+We always use SASS with SCSS syntax.
 
 ## Derived from
 
